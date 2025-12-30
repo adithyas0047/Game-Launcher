@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link
+      rel="stylesheet"
+      href="node_modules/bootstrap/dist/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="index.css" />
+    <title>Game Launcher</title>
+  </head>
+  <body>
+    <br />
+    <h1 style="color: indigo" class="text-center fw-semibold">Game Library</h1>
+    <br />
+    <!--Add games-->
+    <div class="container mb-5">
+      <div class="card mx-auto hover-card text-center" style="width: 18rem">
+        <img src="assets/gamepad.jpg" class="card-img-top" />
+        <div class="card-body">
+          <a href="gamePath.html" class="btn btn-primary text-center"
+            >Add Game</a
+          >
+        </div>
+      </div>
+    </div>
+    <!--Game List-->
+    <div class="container mt-5">
+      <h1 class="text-center mb-5 text-primary-emphasis">Added games</h1>
+      <div class="row" id="gameList"></div>
+    </div>
+
+    <script src="renderer.js"></script>
+  </body>
+</html>

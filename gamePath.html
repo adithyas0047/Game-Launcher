@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="node_modules/bootstrap/dist/css/bootstrap.min.css"
+    />
+    <title>Game Path</title>
+  </head>
+  <body>
+    <div style="padding: 10px">
+      <a href="index.html">
+        <button class="btn btn-primary">Go Back</button>
+      </a>
+    </div>
+    <!--game path form-->
+    <div class="container mt-5">
+      <div class="row justify-content-center">
+        <div class="col-12 col-md-8 col-lg-6">
+          <form action="" id="game_Path" class="text-center">
+            <div>
+              <label for="iconPath" class="form-label fw-normal">Icon</label>
+              <input
+                type="text"
+                class="form-control mb-2"
+                id="iconPath"
+                placeholder="Enter your icon url from the internet (not the local file path)"
+              />
+              <label for="gamePath" class="form-label fw-normal"
+                >Game Path</label
+              >
+              <input
+                type="text"
+                class="form-control mb-2"
+                id="gamePath"
+                placeholder="Enter your game path here!"
+              />
+              <label for="gameName" class="form-label fw-normal"
+                >Game Name</label
+              >
+              <input
+                type="text"
+                class="form-control mb-4"
+                id="gameName"
+                placeholder="Enter your game name here!"
+              />
+              <button type="submit" class="btn btn-success">
+                Add Game to Library
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <script src="gamePath.js"></script>
+  </body>
+</html>
