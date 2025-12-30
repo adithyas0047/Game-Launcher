@@ -33,7 +33,7 @@ This application allows users to add locally installed games, display them as ca
 - Add Game form
 - Play & Delete actions per game
 
-_(Screenshots can be added here later)_
+![Screenshot](assets/screenshot.png)
 
 ## Project Structure
 
