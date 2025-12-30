@@ -33,7 +33,7 @@ This application allows users to add locally installed games, display them as ca
 - Add Game form
 - Play & Delete actions per game
 
-_(Screenshots can be added here later)_
+![Screenshot](assets/screenshot.png)
 
 ## Project Structure
 
@@ -87,3 +87,10 @@ If you liked this project:
 - Star the repository ⭐
 - Fork it
 - Give feedback or suggestion
+
+## Author
+
+Adithya S
+
+- Github: https://github.com/adithyas0047/Game-Launcher
+- LinkedIn: https://www.linkedin.com/in/adithya-s-027342237/
