@@ -1,5 +1,7 @@
 # 🎮 Game Launcher (Electron.js)
 
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 A lightweight **desktop game launcher** built using **Electron.js**, **HTML**, **Bootstrap**, and **JavaScript**.  
 This application allows users to add locally installed games, display them as cards with cover images, and launch them with a single click.
 
