@@ -92,5 +92,5 @@ If you liked this project:
 
 Adithya S
 
-- Github: https://github.com/adithyas0047/Game-Launcher
+- Github: https://github.com/adithyas0047
 - LinkedIn: https://www.linkedin.com/in/adithya-s-027342237/
